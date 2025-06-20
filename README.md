@@ -76,7 +76,7 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>I am a 400-level Soil Science student at Ahmadu Bello University, Zaria, Nigeria, with a CGPA of 4.53 and a peak GPA of 5.00. I'm passionate about sustainable agriculture, youth empowerment, and environmental innovation.</p>
+    <p>I am a 400-level Soil Science student at Ahmadu Bello University, Zaria, Nigeria, with a FIRST CLASS CGPA and a peak GPA of 5.00. I'm passionate about sustainable agriculture, youth empowerment, and environmental innovation.</p>
     <p>As the Founder of EcoBloom Farms, I transform plastic waste into productive vertical farming systems, training over 350 youths in climate-smart agriculture across Nigeria. I'm also the Tutorial Coordinator for my faculty and serve as Director of Media and Publicity for our Christian fellowship.</p>
   </section>
 
